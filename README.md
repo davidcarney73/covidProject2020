@@ -1,4 +1,4 @@
-# covidProject2020
+# Covid Project 2020
 
 Project by David Carney
 
